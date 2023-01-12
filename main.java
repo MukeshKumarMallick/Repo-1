@@ -5,6 +5,12 @@ class first
     static void show()
     {
         System.out.println("static show method is called");
+
+    }
+    static void display()
+    {
+        System.out.println("static display method is called");
+
     }
     static void print()
     {
