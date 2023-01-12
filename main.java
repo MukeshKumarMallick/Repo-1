@@ -2,6 +2,10 @@ package myPack;
 
 class first
 {
+    static void display()
+    {
+        System.out.println("static display method is called");
+    }
     static void print()
     {
         System.out.println("static print method called ");
